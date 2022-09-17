@@ -6,4 +6,4 @@
 
 MIT
 
-[Demo] https://replit.com/@CarlosAlbert213/Trivia?v=1
+[Demo](https://replit.com/@CarlosAlbert213/Trivia?v=1)
